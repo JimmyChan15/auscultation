@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activity.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_main"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/toolbar_height"
+        android:background="@color/green1"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/lightcyan">
+
+        <TextView
+            android:id="@+id/id_course"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/course"
+            android:gravity="center"
+            android:textSize="22sp"
+            android:textColor="@color/green2"
+            android:padding="8dp"/>
+
+        <TextView
+            android:id="@+id/id_test"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/test"
+            android:gravity="center"
+            android:textSize="22sp"
+            android:textColor="@color/green2"
+            android:padding="8dp"/>
+
+        <TextView
+            android:id="@+id/id_my"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/my"
+            android:gravity="center"
+            android:textSize="22sp"
+            android:textColor="@color/green2"
+            android:padding="8dp"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/id_tabLine"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/ic_blue_bg_i" />
+
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/viewPager_main"/>
+</LinearLayout>

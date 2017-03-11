@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">移动作业</string>
+    <string name="course">课程</string>
+    <string name="test">练习测试</string>
+    <string name="my">我的</string>
+    <string name="liaojie">《数据库应用》内容包括了“SQL　Server数据库管理系统”和“数据库原理”两部分内容。本课程的目标是使学生能够结合数据库原理的相关理论充分了解SQL　Server，并能综合掌握SQL　Server的操作方法。课程内容体系结构是以能力培养为核心的思路构建课程内容体系，以能力逐层提升为目标设计整体结构，以实践应用的需求为尺度引入知识点，以循环往复式训练为基础，以任务驱动为基本模式设计每节课的教学内容。</string>
+    <string name="yaoqiu">使学生通过该课程的学习，具有进行简单数据库应用系统设计与开发的能力。通过本课程的学习，让学生了解数据库应用开发技术的现状和发展趋势，掌握SQL Server等主流数据库软件的基本概念和操作技能，并初步具有分析和解决实际数据库开发问题的能力。</string>
+    <string name="zhongdian">概念模型设计，关系模型设计，关系数据库标准语言SQL
+（1）概念模型设计
+（2）关系模型设计
+（3）SQL 语言
+    </string>
+    <string name="nandian">嵌套查询，关系数据库规范化
+（1）嵌套查询
+（2）关系数据库规范化
+    </string>
+</resources>

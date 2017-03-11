@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:alpha="1"
+    android:layout_marginTop="5dp">
+    <LinearLayout
+        android:layout_height="wrap_content" android:layout_width="wrap_content"
+        android:orientation="vertical" android:padding="15dp">
+
+        <ProgressBar android:id="@+id/pb_waiting" android:layout_height="wrap_content"
+            android:layout_width="wrap_content" android:indeterminateTint="@color/paleturquoise"
+            android:indeterminateTintMode="src_atop" android:indeterminate="true" android:layout_gravity="center"/>
+
+        <TextView android:id="@+id/waitingText" android:layout_height="wrap_content"
+            android:layout_width="wrap_content" android:layout_marginTop="10dp" android:text="请稍候…"
+            android:textColor="@color/palegreen"/>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

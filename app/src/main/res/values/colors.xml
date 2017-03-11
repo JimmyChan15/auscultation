@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="paleturquoise">#AFEEEE</color>
+    <color name="palegreen">#98FB98</color>
+    <color name="lightgreen">#90EE90</color>
+    <color name="springgreen">#00FF7F</color>
+    <color name="green">#00FF00</color>
+    <color name="green1">#00c617</color>
+    <color name="green2">#8bc34a</color>
+    <color name="tab_backgroundColor">#f2d5a0</color>
+    <color name="currentIndex">#e51c23</color>
+</resources>

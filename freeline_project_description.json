@@ -1,0 +1,115 @@
+{
+    "android_gradle_plugin_version": "2.1.2",
+    "apk_path": "E:\\projects\\Android\\YiDongZuoYe\\app\\build\\outputs\\apk\\app-debug.apk",
+    "apt": {
+        
+    },
+    "apt_libraries": {
+        "dagger": false,
+        "butterknife": false
+    },
+    "auto_dependency": true,
+    "build_cache_dir": "E:\\projects\\Android\\YiDongZuoYe\\app\\build\\freeline",
+    "build_directory": "E:\\projects\\Android\\YiDongZuoYe\\app\\build",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "E:\\sdk\\build-tools\\24.0.2",
+    "build_tools_version": "24.0.2",
+    "compile_sdk_directory": "E:\\sdk\\platforms\\android-24",
+    "compile_sdk_version": "android-24",
+    "databinding": [
+        
+    ],
+    "databinding_compiler_jar": "",
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.example.chens.yidongzuoye",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "E:\\projects\\Android\\YiDongZuoYe",
+    "freeline_gradle_plugin_version": "0.8.5",
+    "ignore_resource_ids": [
+        "avd_hide_password_1",
+        "avd_hide_password_2",
+        "avd_hide_password_3",
+        "avd_show_password_1",
+        "avd_show_password_2",
+        "avd_show_password_3"
+    ],
+    "java_home": "C:\\Program Files\\Java\\jdk1.8.0_73",
+    "launcher": "com.example.chens.yidongzuoye.Activity.MainActivity",
+    "main_assets_directory": [
+        "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\debug\\assets",
+        "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\debug\\jniLibs",
+        "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\debug\\jni",
+        "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\main\\jni"
+    ],
+    "main_manifest_path": "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "E:\\projects\\Android\\YiDongZuoYe\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\debug\\res",
+        "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\debug\\java",
+        "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "E:\\projects\\Android\\YiDongZuoYe\\app"
+        }
+    ],
+    "package": "com.example.chens.yidongzuoye",
+    "product_flavor": "",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\debug\\assets",
+                "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\debug\\jniLibs",
+                "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\debug\\jni",
+                "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\main\\jni"
+            ],
+            "main_manifest_path": "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\debug\\res",
+                "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\debug\\java",
+                "E:\\projects\\Android\\YiDongZuoYe\\app\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "retrolambda": {
+        
+    },
+    "root_dir": "E:\\projects\\Android\\YiDongZuoYe",
+    "sdk_directory": "E:\\sdk",
+    "use_jdk8": false
+}
